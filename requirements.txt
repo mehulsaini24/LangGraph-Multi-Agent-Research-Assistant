@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+huggingface-hub
+tavily-python
+typing-extensions
+pydantic
